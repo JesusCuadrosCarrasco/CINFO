@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "copyfiles": "^2.4.1",
+    "csv-writer": "^1.6.0",
+    "electron": "^28.1.1",
+    "exceljs": "^4.4.0",
+    "mssql": "^10.0.1",
+    "mysql2": "^3.6.5",
+    "node-cron": "^3.0.3",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.0.5",
+    "puppeteer": "^21.6.1",
+    "robotjs": "^0.6.0"
+  }
+}
