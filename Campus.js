@@ -42,7 +42,7 @@ async function prompt(question) {
 
     // Ingresar el nombre de usuario y la contraseña
     await page.type('#username', '71122396'); // Reemplaza 'tu_usuario' con el nombre de usuario real
-    await page.type('#password', '712947.ShJc'); // Reemplaza 'tu_contraseña' con la contraseña real
+    await page.type('#password', '71122396'); // Reemplaza 'tu_contraseña' con la contraseña real
 
     // Hacer clic en el botón de inicio de sesión
     await Promise.all([
